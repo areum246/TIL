@@ -23,8 +23,7 @@ github에 업로드하기 위한 순서
 
 - 변경사항이 생겼을 때 확인하기 위해서 상태를 확인하는 명령어 
 
-```% git commit
-```
+% git commit
 
 % git push origin main
 
